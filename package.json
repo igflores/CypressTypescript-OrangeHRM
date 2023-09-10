@@ -1,0 +1,30 @@
+{
+  "name": "cypress-ts-organgehrm",
+  "version": "1.0.0",
+  "description": "cypress typescript orangehrm",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igflores/CypressTypescript-OrangeHRM.git"
+  },
+  "keywords": [
+    "cypress"
+  ],
+  "author": "Isabel Gonzalez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igflores/CypressTypescript-OrangeHRM/issues"
+  },
+  "homepage": "https://github.com/igflores/CypressTypescript-OrangeHRM#readme",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "20.5.9",
+    "cypress": "13.1.0",
+    "eslint": "8.48.0",
+    "eslint-plugin-only-warn": "1.1.0",
+    "typescript": "5.2.2"
+  }
+}
